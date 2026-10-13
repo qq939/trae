@@ -1,0 +1,9 @@
+# 参考资料 - Hello World 项目
+
+## Python 官方文档
+- https://docs.python.org/3/
+- https://docs.python.org/3/tutorial/
+
+## 可行性分析
+本项目为最简单的 Python 打印脚本，无外部依赖，直接使用 print() 内置函数即可。
+无需第三方库，标准库已满足需求。
